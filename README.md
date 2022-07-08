@@ -1,2 +1,3 @@
 # HackerRank-30-Days-Of-Code
-HackerRank' s 30 Day Code Challenge 
+Challenge Link ~ https://www.hackerrank.com/domains/tutorials/30-days-of-code
+
